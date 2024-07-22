@@ -1,0 +1,11 @@
+.rooms {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .room {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ddd;
+  }
+  
