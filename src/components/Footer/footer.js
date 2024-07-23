@@ -6,8 +6,7 @@ function Footer() {
   return (
     <footer className="footer">
         <Button val="footer" val2="green"/>
-        <h3>I am a footer</h3>
-      <p>© 2024 Hotel Name. All rights reserved.</p>
+      
     </footer>
   );
 }
